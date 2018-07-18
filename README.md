@@ -16,6 +16,7 @@ For more information on motivation and architecture, check out our [blog post](h
 
 ```bash
 $ brew tap uber/nanoscope
+$ brew update
 $ brew install nanoscope
 ```
 
